@@ -1,7 +1,7 @@
 # cv-dft_test
 
 
-# System information (version)
+## System information (version)
 OpenCV => 4.0  cmake -D CMAKE_BUILD_TYPE=RELEASE
 -D WITH_TBB=OFF
 -D WITH_OPENGL=ON
@@ -10,4 +10,5 @@ OpenCV => 4.0  cmake -D CMAKE_BUILD_TYPE=RELEASE
 ubuntu 16.04 
 
 ## pytorch 
-torch-1.2.0-cp36-cp36m-linux_x86_64.whl
+link:https://download.pytorch.org/whl/cu90/torch_stable.html
+pytorch 1.1 or 1.2
